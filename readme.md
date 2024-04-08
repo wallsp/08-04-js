@@ -10,7 +10,7 @@ Um aplicativo simples que gera uma tabela de tabuada de multiplicação dinamica
 - A tabela é exibida na pagina em tempo real.
 
 ## Como usar 
-1. Clone este repositorio para o seu computador: https://github.com/wallsp/08--04-html.git
+1. Clone este repositorio para o seu computador: https://github.com/wallsp/08-04-js.git
 2. navegue até o diretório do projeto: cd tabuada-dinamica
 3. Abra o arquivo `index.html´ em um navegador da web.
 4. Insira o numero da tabuada desejado e a quantidade de vezes que o numero deve ser multiplicado nos campos apropriados.
